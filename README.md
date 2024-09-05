@@ -25,10 +25,10 @@ Bu proje, araç ekleme, silme ve listeleme işlevlerine sahip bir web uygulamas�
 ## 📸 Ekran Görüntüleri
 
 Ana Sayfa:  
-![Ana Sayfa](<img width="1470" alt="Ekran Resmi 2024-09-05 16 50 53" src="https://github.com/user-attachments/assets/287ef2b4-34ca-41bc-96be-49ab286b1995">)
+<img width="1470" alt="Ekran Resmi 2024-09-05 16 50 53" src="https://github.com/user-attachments/assets/287ef2b4-34ca-41bc-96be-49ab286b1995">
 
 Araç Ekleme Formu:  
-![Araç Ekleme](<img width="1093" alt="Ekran Resmi 2024-09-05 16 59 56" src="https://github.com/user-attachments/assets/b2def26a-1bd1-4272-8f08-adbab4dc5fb9">)
+<img width="1093" alt="Ekran Resmi 2024-09-05 16 59 56" src="https://github.com/user-attachments/assets/b2def26a-1bd1-4272-8f08-adbab4dc5fb9">
 
 Araçlar Listesi:  
 ![Araç Listesi](<img width="1128" alt="Ekran Resmi 2024-09-05 16 55 32" src="https://github.com/user-attachments/assets/ea691e5a-8f39-4887-9cc8-f7234aefe35a">)
